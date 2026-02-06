@@ -1,0 +1,95 @@
+
+
+.container-header{
+    text-align: center;
+}
+
+
+.container{
+    background-color: rgb(205, 209, 212);
+    width: fit-content;
+    border-radius: 15px;
+    padding: 0 0 20px 0;
+    box-shadow: 20px 20px 30px silver;
+}
+
+.fa-star{
+    margin: 10px;
+    padding-left: 280px;
+}
+
+.fa-ellipsis {
+    padding-right: 10px;
+}
+
+.header-name,
+.row,
+.col{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.fa-user {
+    margin: 10px;
+    font-size: 30px;
+    color: rgb(104, 118, 210);
+}
+.fa-user,
+.col,
+.fa-calendar-days,
+.fa-calendar-day{
+    padding-left: 10px;
+}
+
+.fa-user {
+    border: 1px solid black;
+    padding: 3px;
+    border-radius: 10%;
+}
+
+.fa-calendar-day{
+    margin: 0 0 10px 0;
+}
+
+.pages-text {
+    padding-right: 30px;
+}
+
+/* bu yerdan ikkinchi content boshlangan */
+
+
+
+.content {
+    background-color: rgb(23, 23, 23);
+    width: fit-content;
+    color: aliceblue;
+    padding: 10px 20px 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+    'Helvetica Neue', sans-serif;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px silver;
+}
+
+
+.fa-user-group{
+    margin: 25px 0;
+    padding-left: 140px;
+    font-size: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
